@@ -33,3 +33,5 @@ Once the training is completed, we need to expose the trained model as an API fo
 ![HTML ](https://img.shields.io/badge/HTML-Any-green.svg)
 ![Heroku ](https://img.shields.io/badge/Heroku-account-green.svg)
 
+![GIF](readme-resources/My-Movie.gif)
+
